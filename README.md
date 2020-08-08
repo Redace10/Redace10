@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://avatars3.githubusercontent.com/u/19397839?s=460&u=3e56f01b76c9c5f768c3b2504a9c7eddab7afd89&v=4)
+![alt text](https://github.com/Redace10/Floop-and-Bloop/blob/master/android/assets/player%20menu%20sprite%20sheet.png)
 <!--
 **Redace10/Redace10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
